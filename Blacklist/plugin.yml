@@ -1,0 +1,7 @@
+name: Blacklist
+main: S3ries.Purgeblacklist.Main.Main
+credits: S3ries
+version: 0.3-BETAVERSION
+author: S3ries
+commands:
+  blacklist:
